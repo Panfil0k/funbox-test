@@ -1,0 +1,10 @@
+.header__title {
+  font-family: 'Exo 2', 'Trebuchet MS', 'Helvetica', sans-serif;
+  font-size: 36px;
+  line-height: 1.22;
+  font-weight: 100;
+  color: #fff;
+  text-shadow: 0px 1px 1px #000000;
+  margin: 0;
+  text-align: center;
+}
