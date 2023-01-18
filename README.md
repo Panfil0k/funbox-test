@@ -2,4 +2,4 @@
 
 Реализован на React.js
 
-[Ссылка на GitHub Pages](https://panfil0k.github.io/react-mesto-auth/)
+[Ссылка на GitHub Pages](https://panfil0k.github.io/funbox-test/)
